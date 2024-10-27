@@ -1,2 +1,4 @@
 ceci est une phrase:!
 rajout d'une deuxième ligne
+rajout d'une troisième ligne
+rajout d'une quatrième ligne
